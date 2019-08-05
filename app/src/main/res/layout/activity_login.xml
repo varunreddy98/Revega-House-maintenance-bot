@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:background="@drawable/min"
+    tools:context=".Login">
+
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/google"
+            android:layout_width="155dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="87dp"
+            android:layout_marginEnd="79dp"
+            android:layout_marginBottom="51dp"
+            tools:layout_editor_absoluteX="115dp"
+            tools:layout_editor_absoluteY="436dp" />
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "764322634628",
+    "firebase_url": "https://realapp-b1f3c.firebaseio.com",
+    "project_id": "realapp-b1f3c",
+    "storage_bucket": "realapp-b1f3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764322634628:android:6699352ade970640",
+        "android_client_info": {
+          "package_name": "com.hariofspades.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764322634628-2b3do2buui749vbfb8830o6eti22abg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hariofspades.chatbot",
+            "certificate_hash": "aeedc7d74926af3b25c8eec530c26fd80bc5c9c1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ceTJPTmJzYptqidzXN0FjGznZtQQ5bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764322634628-qusbo0f1jkfhpuabaninltqag1t62csr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
